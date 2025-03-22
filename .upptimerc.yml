@@ -13,6 +13,8 @@ sites:
     url: https://localhoney.theapiarist.org
   - name: Talks
     url: https//talks.theapiarist.org
+  - name: Swarms
+    url: https://swarms.theapiarist.org
   - name: IPv6 test
     url: forwardemail.net
     port: 80
