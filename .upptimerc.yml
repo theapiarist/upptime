@@ -7,10 +7,12 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: The Apiarist
+    url: https://theapiarist.org
+  - name: Localhoney
+    url: https://localhoney.theapiarist.org
+  - name: Talks
+    url: https//talks.theapiarist.org
   - name: IPv6 test
     url: forwardemail.net
     port: 80
