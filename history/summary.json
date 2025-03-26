@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/localhoney.theapiarist.org.ico",
     "slug": "localhoney",
     "status": "down",
-    "uptime": "69.13%",
-    "uptimeDay": "74.95%",
-    "uptimeWeek": "69.13%",
-    "uptimeMonth": "69.13%",
-    "uptimeYear": "69.13%",
+    "uptime": "69.01%",
+    "uptimeDay": "74.22%",
+    "uptimeWeek": "69.01%",
+    "uptimeMonth": "69.01%",
+    "uptimeYear": "69.01%",
     "time": 205,
     "timeDay": 266,
     "timeWeek": 205,
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-03-26": 361,
+      "2025-03-26": 371,
       "2025-03-23": 540,
       "2025-03-22": 917
     }
@@ -44,19 +44,19 @@
     "url": "https://swarms.theapiarist.org",
     "icon": "https://icons.duckduckgo.com/ip3/swarms.theapiarist.org.ico",
     "slug": "swarms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 525,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 415,
+    "timeDay": 513,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 11
     }
   }
 ]
