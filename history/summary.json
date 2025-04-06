@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/localhoney.theapiarist.org.ico",
     "slug": "localhoney",
     "status": "up",
-    "uptime": "78.34%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "82.01%",
-    "uptimeMonth": "78.34%",
-    "uptimeYear": "78.34%",
+    "uptime": "78.23%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "82.09%",
+    "uptimeMonth": "78.23%",
+    "uptimeYear": "78.23%",
     "time": 405,
-    "timeDay": 360,
+    "timeDay": 362,
     "timeWeek": 339,
     "timeMonth": 405,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-04-05": 61,
+      "2025-04-05": 52,
       "2025-04-04": 82,
       "2025-04-03": 142,
       "2025-04-02": 141,
@@ -44,7 +44,7 @@
       "2025-03-29": 640,
       "2025-03-28": 715,
       "2025-03-27": 1323,
-      "2025-03-26": 87
+      "2025-03-26": 131
     }
   },
   {
