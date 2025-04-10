@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 385,
-    "timeWeek": 299,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "time": 305,
+    "timeDay": 819,
+    "timeWeek": 379,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/localhoney.theapiarist.org.ico",
     "slug": "localhoney",
     "status": "up",
-    "uptime": "88.29%",
-    "uptimeDay": "93.57%",
-    "uptimeWeek": "94.63%",
-    "uptimeMonth": "88.29%",
-    "uptimeYear": "88.29%",
-    "time": 395,
-    "timeDay": 329,
-    "timeWeek": 374,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "uptime": "88.30%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "88.30%",
+    "uptimeYear": "88.30%",
+    "time": 396,
+    "timeDay": 324,
+    "timeWeek": 375,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2025-04-09": 92,
+      "2025-04-09": 84,
       "2025-04-08": 69,
       "2025-04-07": 38,
       "2025-04-06": 64,
@@ -46,7 +46,7 @@
       "2025-03-31": 593,
       "2025-03-30": 580,
       "2025-03-29": 640,
-      "2025-03-28": 436
+      "2025-03-28": 453
     }
   },
   {
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 484,
-    "timeWeek": 463,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 418,
+    "timeDay": 486,
+    "timeWeek": 481,
+    "timeMonth": 418,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   }
 ]
