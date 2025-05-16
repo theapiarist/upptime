@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/theapiarist.org.ico",
     "slug": "the-apiarist",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 343,
     "timeDay": 352,
     "timeWeek": 328,
     "timeMonth": 338,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2025-05-16": 0
+      "2025-05-16": 10
     }
   },
   {
@@ -24,18 +24,19 @@
     "url": "https://localhoney.theapiarist.org",
     "icon": "https://icons.duckduckgo.com/ip3/localhoney.theapiarist.org.ico",
     "slug": "localhoney",
-    "status": "up",
-    "uptime": "86.16%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "86.19%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.33%",
-    "uptimeYear": "86.16%",
-    "time": 546,
-    "timeDay": 563,
-    "timeWeek": 597,
-    "timeMonth": 2169,
-    "timeYear": 546,
+    "uptimeYear": "86.19%",
+    "time": 551,
+    "timeDay": 1953,
+    "timeWeek": 940,
+    "timeMonth": 2196,
+    "timeYear": 551,
     "dailyMinutesDown": {
+      "2025-05-16": 0,
       "2025-05-01": 789,
       "2025-04-30": 1440,
       "2025-04-29": 74,
@@ -58,7 +59,7 @@
       "2025-04-01": 213,
       "2025-03-31": 593,
       "2025-03-30": 580,
-      "2025-03-29": 640
+      "2025-03-29": 618
     }
   },
   {
