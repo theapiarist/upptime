@@ -4,7 +4,7 @@
     "url": "https://theapiarist.org",
     "icon": "https://icons.duckduckgo.com/ip3/theapiarist.org.ico",
     "slug": "the-apiarist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 328,
     "timeMonth": 338,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-16": 0
+    }
   },
   {
     "name": "Localhoney",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/localhoney.theapiarist.org.ico",
     "slug": "localhoney",
     "status": "up",
-    "uptime": "85.99%",
+    "uptime": "86.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.33%",
-    "uptimeYear": "85.99%",
+    "uptimeYear": "86.16%",
     "time": 546,
     "timeDay": 563,
     "timeWeek": 597,
